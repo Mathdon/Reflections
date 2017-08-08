@@ -5,3 +5,7 @@ working on different versions while keeping a working version.
 How do the diagrams help you visualize the branch structure?
 
 they show which commits are in each branch. 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+all changes are merged. and the merge branch can be deleted as the commits would be reachable via the other branch
